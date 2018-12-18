@@ -1,0 +1,72 @@
+/*
+* Victoria Corbo
+* December 21, 2018
+* Your Cause: Yangtze Finless Porpoise
+*/
+
+/* The universal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 25px;
+    border-bottom: 5px solid black;
+    font-size: 275%;
+}
+
+#main {
+    float: left;
+    height: 200px;
+    width: 250px;
+    border: 2px dashed black;
+    margin: 5px 15px;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 150%;
+    margin-left: 5px;
+}
+
+.photo {
+    height: 150px;
+    width: 200px;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+#location {
+    float: right;
+    height: 230px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 10px 20px;
+}
+
+#foot{
+    border-top: 5px solid black;
+    margin-top: 10px;
+    padding-top: 10px
+}
+
+#last {
+    float: right;
+}
+
+p {
+    text-align: justify;
+    text-indent: 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    background-color: azure;
+    color: black;
+}
